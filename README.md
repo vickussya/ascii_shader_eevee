@@ -47,6 +47,4 @@ A screen-space ASCII art material for **3D objects** in Blender. Instead of post
 
 MIT. Free to use in personal and commercial projects. Credit is appreciated!
 
----
-Made by **Viki Stoyanova**, 3D & Technical Artist · https://www.linkedin.com/in/victoria-stoyanova-962162281/
 
