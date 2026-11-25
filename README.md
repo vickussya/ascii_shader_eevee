@@ -13,7 +13,6 @@ A screen-space ASCII art material for **3D objects** in Blender. Instead of post
 - Per-character color variation for a painterly look
 - Shuffled glyphs and wavy, fabric-like rows (animatable with 4D noise)
 - Glowing emission. Pair it with Bloom in the Compositor
-- 
 
 ## Requirements
 
