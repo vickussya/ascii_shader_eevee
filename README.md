@@ -1,6 +1,7 @@
-<img width="800" height="450" alt="preview" src="https://github.com/user-attachments/assets/c3bad7b1-e119-45f2-9f2b-a5ccc8a94751" />
-
 # ASCII Shader for Blender (EEVEE)
+
+
+<img width="800" height="450" alt="preview" src="https://github.com/user-attachments/assets/c3bad7b1-e119-45f2-9f2b-a5ccc8a94751" />
 
 <img width="654" height="368" alt="Screenshot 2026-11-25 113117" src="https://github.com/user-attachments/assets/07ef2dc3-37cc-4a2e-9a3a-4640f3ba36e4" />
 
@@ -45,4 +46,7 @@ A screen-space ASCII art material for **3D objects** in Blender. Instead of post
 ## License
 
 MIT. Free to use in personal and commercial projects. Credit is appreciated!
+
+---
+Made by **Viki Stoyanova**, 3D & Technical Artist · https://www.linkedin.com/in/victoria-stoyanova-962162281/
 
