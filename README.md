@@ -3,7 +3,7 @@
 
 <img width="654" height="368" alt="Screenshot 2026-11-25 113117" src="https://github.com/user-attachments/assets/07ef2dc3-37cc-4a2e-9a3a-4640f3ba36e4" />
 
-A screen-space ASCII art material for **3D objects** in Blender. Instead of post-processing the whole frame, it lives on the material, so you can put it on any object, light it, and animate
+A screen-space ASCII art material for **3D objects** in Blender. Instead of post-processing the whole frame, it lives on the material, so you can put it on any object, light it, and animate it.
 
 
 ## Features
@@ -13,7 +13,8 @@ A screen-space ASCII art material for **3D objects** in Blender. Instead of post
 - Per-character color variation for a painterly look
 - Shuffled glyphs and wavy, fabric-like rows (animatable with 4D noise)
 - Glowing emission. Pair it with Bloom in the Compositor
-- 
+
+![preview](images/preview.gif)
 
 ## Requirements
 
@@ -45,6 +46,4 @@ A screen-space ASCII art material for **3D objects** in Blender. Instead of post
 ## License
 
 MIT. Free to use in personal and commercial projects. Credit is appreciated!
-
----
 
