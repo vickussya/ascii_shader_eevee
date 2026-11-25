@@ -6,8 +6,6 @@
 
 A screen-space ASCII art material for **3D objects** in Blender. Instead of post-processing the whole frame, it lives on the material, so you can put it on any object, light it, and animate it.
 
-<img width="800" height="450" alt="preview" src="https://github.com/user-attachments/assets/409b9f7f-40d8-4c51-a4e2-520dbd062e8a" />
-
 
 ## Features
 
